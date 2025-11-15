@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "Fast MCP Demo Server": {
+      "command": "C:\\Users\\Gaurav Ramane\\.local\\bin\\uv",
+      "args": [
+        "run",
+        "--active",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "D:\\ALL MCP SERVER\\FAST_MCP_SERVER\\FAST_MCP_DEMO_SERVER\\main.py"
+      ],
+      "env": {},
+      "transport": "stdio",
+      "type": null,
+      "cwd": null,
+      "timeout": null,
+      "description": null,
+      "icon": null,
+      "authentication": null
+    }
+  }
+}
